@@ -64,7 +64,7 @@ async function getHoloearthOfficialVideos() {
         'X-APIKEY': HOLODEX_API_KEY,
       },
       params: {
-        channel_id: 'UC-IoNQkZqaTxBZlIDNI69nA', // Replace this with the actual channel ID for @holoearthofficial
+        channel_id: 'UCfpWrWvbA34LmrZ9h4Lbwa',
         limit: 5,
         sort: 'newest',
       },
